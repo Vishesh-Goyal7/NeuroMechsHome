@@ -28,7 +28,7 @@ function TeamPage() {
       },
     },
     {
-      name: "Vishesh Goyal",
+      name: "Vishesh Goyal (Captain)",
       img: "/VISHESH.JPG", 
       desc: "Part philosopher, part full-stack AI sorcerer, codes systems by the day and questions existence by night.",
       links: {
