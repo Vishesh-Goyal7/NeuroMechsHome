@@ -30,7 +30,7 @@ function TeamPage() {
     {
       name: "Vishesh Goyal (Captain)",
       img: "/VISHESH.JPG", 
-      desc: "Part philosopher, part full-stack AI sorcerer, codes systems by the day and questions existence by night.",
+      desc: "Building AI empires by day, questioning the universe by night — reach out if you dare to think beyond the obvious.",
       links: {
         portfolio: "https://visheshverse.com",
         email: "mailto:visheshvishu1@outlook.com",
